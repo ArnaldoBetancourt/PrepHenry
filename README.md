@@ -1,2 +1,1 @@
-# PrepHenry
-prueba del prepcurso 
+crear un repositorio de prueda para el curso
